@@ -2,11 +2,11 @@
 
 Sou Paraibano
 
-Tenho 25 anos de idade
+Tenho 26 anos de idade
 
 Sou desenvolvedor front-end
 
-Curso de front-END em andamento na plataforma Vai na Web
+Curso de Front-End em andamento na plataforma Vai na Web
 
 [![card](https://github-readme-stats.vercel.app/api?username=DouglasSilva83&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
