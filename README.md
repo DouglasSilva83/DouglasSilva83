@@ -4,7 +4,7 @@ Sou Paraibano
 
 Tenho 26 anos de idade
 
-Sou desenvolvedor front-end
+Sou desenvolvedor full-stack
 
 Curso de Front-End em andamento na plataforma Vai na Web
 
