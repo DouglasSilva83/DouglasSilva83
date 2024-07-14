@@ -6,7 +6,7 @@ Tenho 26 anos de idade
 
 Sou desenvolvedor full-stack
 
-Curso de Front-End em andamento na plataforma Vai na Web
+Finalizei o curso de Front-End na plataforma Vai na Web e estou cursando atualmente Back-End
 
 [![card](https://github-readme-stats.vercel.app/api?username=DouglasSilva83&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
