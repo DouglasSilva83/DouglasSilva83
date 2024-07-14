@@ -13,7 +13,7 @@ Finalizei o curso de Front-End na plataforma Vai na Web e estou cursando atualme
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src ="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+<img src ="" />
 
 <!--
 **DouglasSilva83/DouglasSilva83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
