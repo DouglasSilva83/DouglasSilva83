@@ -9,7 +9,7 @@ Sou desenvolvedor full-stack
 Curso de Front-End em andamento na plataforma Vai na Web
 
 [![card](https://github-readme-stats.vercel.app/api?username=DouglasSilva83&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DouglasSilva83&theme=dark)
+
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
