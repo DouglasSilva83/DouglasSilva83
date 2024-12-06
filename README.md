@@ -2,7 +2,7 @@
 
 Sou Paraibano
 
-Tenho 26 anos de idade
+Tenho 27 anos de idade
 
 Sou desenvolvedor full-stack
 
